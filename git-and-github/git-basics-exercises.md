@@ -23,6 +23,8 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution8-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution8-after.png)
 
 ### 9. Add fourth.txt to the staging area.
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution9-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution9-after.png)
+
 ### 10. Commit with the message "adding fourth.txt"
 ### 11. Remove the third.txt file
 ### 12. Add this change to the staging area
