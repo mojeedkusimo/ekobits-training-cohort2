@@ -2,15 +2,17 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution1-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution1-after.png)
 
 ### 2. cd into the learn_git_again folder.
-### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution2-before.png) and (/git-and-github/screenshots/git-basics-exercise-solution2-after.png) 
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution2-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution2-after.png) 
 
 ### 3. Create a file called third.txt.
-### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution3-before.png) and (/git-and-github/screenshots/git-basics-exercise-solution3-after.png) 
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution3-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution3-after.png) 
 
 ### 4. Initialize an empty git repository.
-
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution4-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution4-after.png) 
 
 ### 5. Add third.txt to the staging area.
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution5-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution5-after.png) 
+
 ### 6. Commit with the message "adding third.txt".
 ### 7. Check out your commit with git log.
 ### 8. Create another file called fourth.txt.
