@@ -17,7 +17,7 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution6-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution6-after.png)
 
 ### 7. Check out your commit with git log.
-### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution7.png)
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution7.png)
 
 ### 8. Create another file called fourth.txt.
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution8-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution8-after.png)
@@ -26,7 +26,11 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution9-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution9-after.png)
 
 ### 10. Commit with the message "adding fourth.txt"
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution7.png)
+
 ### 11. Remove the third.txt file
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution11-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution11-after.png)
+
 ### 12. Add this change to the staging area
 ### 13. Commit with the message "removing third.txt"
 ### 14. Check out your commits using git log
