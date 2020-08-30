@@ -35,6 +35,13 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution12-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution12-after.png)
 
 ### 13. Commit with the message "removing third.txt"
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution13.png)
+
 ### 14. Check out your commits using git log
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
+
 ### 15. Change your global setting to core.pager=cat - you can read more about that here.
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
+
 ### 16. Write the command to list all of the global configurations for git on your machine. You can type git config --global to find out how to do this
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
