@@ -1,5 +1,5 @@
 ## 1. Create a folder called learn_git_again.
-## ans: find screenshots here: [before](/screenshots/git-basics-exercise-solution1-before.png) and [after](/screenshots/git-basics-exercise-solution1-after.png)
+## ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution1-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution1-after.png)
 
 ## 2. cd into the learn_git_again folder.
 ## ans: find screenshots here: https://github.com/mojeedkusimo/ekobits-training-cohort2/blob/git-and-github/git-and-github/screenshots/git-basics-exercise-solution2-before.png and https://github.com/mojeedkusimo/ekobits-training-cohort2/blob/git-and-github/git-and-github/screenshots/git-basics-exercise-solution2-after.png 
