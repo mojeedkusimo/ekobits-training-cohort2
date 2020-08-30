@@ -32,6 +32,8 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution11-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution11-after.png)
 
 ### 12. Add this change to the staging area
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution12-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution12-after.png)
+
 ### 13. Commit with the message "removing third.txt"
 ### 14. Check out your commits using git log
 ### 15. Change your global setting to core.pager=cat - you can read more about that here.
