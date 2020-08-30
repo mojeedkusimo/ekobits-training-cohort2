@@ -14,8 +14,14 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution5-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution5-after.png) 
 
 ### 6. Commit with the message "adding third.txt".
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution6-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution6-after.png)
+
 ### 7. Check out your commit with git log.
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution7.png)
+
 ### 8. Create another file called fourth.txt.
+### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution8-before.png) and [after](/git-and-github/screenshots/git-basics-exercise-solution8-after.png)
+
 ### 9. Add fourth.txt to the staging area.
 ### 10. Commit with the message "adding fourth.txt"
 ### 11. Remove the third.txt file
