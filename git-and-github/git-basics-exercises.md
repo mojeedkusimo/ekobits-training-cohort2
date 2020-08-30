@@ -8,6 +8,8 @@
 ### ans: find screenshots here: [before](/git-and-github/screenshots/git-basics-exercise-solution3-before.png) and (/git-and-github/screenshots/git-basics-exercise-solution3-after.png) 
 
 ### 4. Initialize an empty git repository.
+
+
 ### 5. Add third.txt to the staging area.
 ### 6. Commit with the message "adding third.txt".
 ### 7. Check out your commit with git log.
