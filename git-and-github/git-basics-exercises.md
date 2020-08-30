@@ -41,7 +41,7 @@
 ### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
 
 ### 15. Change your global setting to core.pager=cat - you can read more about that here.
-### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution15.png)
 
 ### 16. Write the command to list all of the global configurations for git on your machine. You can type git config --global to find out how to do this
-### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution14.png)
+### ans: find screenshot [here](/git-and-github/screenshots/git-basics-exercise-solution16.png)
