@@ -43,7 +43,16 @@
 ### Write the following terminal commands to do the following
 
 ### 1. Sort vegetables.txt.
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permissions-redirection-and-piping-solution1-part2.png)
+
 ### 2. Count the number of lines in vegetables.txt.
+### ans: The count equals 16 as shown [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permissions-redirection-and-piping-solution2-part2.png)
+
 ### 3. Create a file called vegetables_sorted.txt which contains all the unique vegetables sorted in ascending order in vegetables.txt (do this without the touch command).
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permissions-redirection-and-piping-solution3-part2.png)
+
 ### 4. Create a file called last_three.txt which contains the last three vegetables in the vegetables.txt file (do this without the touch command).
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permissions-redirection-and-piping-solution4-part2.png)
+
 ### 5. Count the number of lines the word "Broccoli" appears on (using wc and grep).
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permissions-redirection-and-piping-solution5-part2.png)
