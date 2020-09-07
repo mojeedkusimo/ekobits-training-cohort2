@@ -61,13 +61,13 @@
 ### ans: find screenshots [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution3-part2.png)
 
 ### 4. Find all files inside the Desktop/views folder that have the name data somewhere in their filename.
-### ans: find screenshots for folder Desktop/ search  [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution4-part2.png)
+### ans: find screenshots  for folder Desktop/ search for folder Desktop/ search [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution4-part2.png)
 
 ### 5. Inside of the instructors.txt (vegetables.txt was used) file, output the number of times the word "Elie" (Broccoli was used) appears.
-### ans: find screenshots for folder Desktop/ search  [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution5-part2.png)
+### ans: find screenshots [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution5-part2.png)
 
 ### 6. Inside of the instructors.txt (vegetables.txt was used) file, list all matches for any full word that starts with a capital "P." ("D." was used)
-### ans: find screenshots for folder Desktop/ search  [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution6-part2.png)
+### ans: find screenshots [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution6-part2.png)
 
 ### 7. Inside of the instructors.txt (vegetables.txt was used) file, list all the line numbers for any full word that starts with a "z" ("c" was used) (it should match regardless of upper or lower case).
-### ans: find screenshots for folder Desktop/ search  [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution7-part2.png)
+### ans: find screenshots [here](/terminal-and-unix/INTERMEDIATE-TERMINAL-SCREENSHOTS/intermediate-terminal-solution7-part2.png)
