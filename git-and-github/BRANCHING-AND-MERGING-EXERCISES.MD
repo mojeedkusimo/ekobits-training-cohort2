@@ -1,4 +1,5 @@
 # Part I
+
 ### 1. What does git clean do?
 ### ans: It removes files not tracked by git
 
@@ -28,3 +29,9 @@
 
 ### 10. How do merge conflicts happen?
 ### ans: This occurs when changes are commited to thesame file on two different branches.
+
+# Part II
+
+### Create your own merge conflict! Work on the same file on two separate branches and merge the two branches together. Fix the conflicts and finish your merge. In the real world you will never intentionally try to create merge conflicts, but it is important to understand how and why they are created. Most importantly, it's important not to be intimidated by merge conflicts, and to be able to fix them with confidence!
+
+### ans: find screenshots here: [before](/git-and-github/branching-and-merging-screenshots/branching-and-merging-solution-part2-before.png) and [after](/git-and-github/branching-and-merging-screenshots/branching-and-merging-solution-part2-after.png)
