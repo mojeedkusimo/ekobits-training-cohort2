@@ -6,7 +6,7 @@
 ### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution2.png)
 
 ### 3. Change the permissions on the restricted.txt file to only allow the owner, group and everyone to read and write and execute the restricted.txt file. Do this using the Symbolic notation.
-### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution2.png)
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution3.png)
 
 ### 4. Create a folder called secret_files. Inside the secret_files folder create a file called first_secret.txt and another folder called classified. Inside of the classified folder create a file called super_secret.txt.
 ### ans: find screenshots here: [before](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution4-before.png) and [after](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution4-after.png)
@@ -18,7 +18,7 @@
 ### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution6.png)
 
 ### 7. Create a symbolic link for the classified folder called classified_link.
-### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution6.png)
+### ans: find screenshots [here](/terminal-and-unix/permissions-redirection-and-piping-screenshots/permisions-redirection-and-piping-solution7.png)
 
 # Part II (Piping and Redirection)
 ### For the following exercises, create a text file called vegetables.txt with the following text:
