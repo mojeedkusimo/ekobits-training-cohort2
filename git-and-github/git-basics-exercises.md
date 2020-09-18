@@ -26,7 +26,7 @@
 ### ans: find screenshots here: [before](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution9-before.png) and [after](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution9-after.png)
 
 ### 10. Commit with the message "adding fourth.txt"
-### ans: find screenshot [here](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution7.png)
+### ans: find screenshot [here](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution10.png)
 
 ### 11. Remove the third.txt file
 ### ans: find screenshots here: [before](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution11-before.png) and [after](/git-and-github/git-basics-solution-screenshots/git-basics-exercise-solution11-after.png)
