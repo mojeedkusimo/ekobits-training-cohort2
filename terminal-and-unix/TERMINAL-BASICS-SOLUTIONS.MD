@@ -1,6 +1,6 @@
 # Part I
 ### 1. make a directory called first
-### ans: find screenshots here: [before](/terminale-and-unix/terminal-basics-screenshots/terminal-basics-solution1-before.png) and [after](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution1-after.png)
+### ans: find screenshots here: [before](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution1-before.png) and [after](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution1-after.png)
 
 ### 2. change directory to the first folder
 ### ans: find screenshots here: [before](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-before.png) and [after](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-after.png)
@@ -26,22 +26,22 @@
 # Part II
 ### 1. What does the man command do? Type in man rm. How do you scroll and get out?
 ### ans: The man command displays the system's manual or descriptions for other commands or tools.
-### ans: Running a "man rm" resulted to [this](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution1-part2.png)
+### ans: Running a "man rm" resulted to [this](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution1-part2.png)
 ### ans: The 'up' and 'down' as well as 'k' and 'e' keys respectively on the keyboard can be used to scroll.
 ### ans: The 'q' key can be pressed to get out of the manual.
 
 ### 2. Look at the man page for ls. What does the -l flag do? What does the -a flag do?
-### ans: The -l flag displays the files and folders in a long format like [this](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-part2.png) showing the permissions, and groups attached to a file or directory
-### ans: The -a flag displays the files and folders without ignoring those starting with . (i.e hidden files) like [this](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-part2.png)
+### ans: The -l flag displays the files and folders in a long format like [this](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-part2.png) showing the permissions, and groups attached to a file or directory
+### ans: The -a flag displays the files and folders without ignoring those starting with . (i.e hidden files) like [this](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution2-part2.png)
 
 ### 3. Type the following command to download and save the contents of google.com: curl https://www.google.com > google.html
-### ans: Command was executed successfully [here](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution3-part2.png)
+### ans: Command was executed successfully [here](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution3-part2.png)
 
 ### 4. Use less to look at the contents of google.html.
-### ans: Command was executed successfully [here](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution4-part2.png)
+### ans: Command was executed successfully [here](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution4-part2.png)
 
 ### 5.Look at the man page for less. Read the section on /pattern. Search for the text hplogo in the google.html file.
-### ans: The command used in less was /hplogo which produced [this](/terminal-and-unix/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution5-part2.png) result
+### ans: The command used in less was /hplogo which produced [this](/terminal-and-unix/terminal-basics-screenshots/terminal-basics-solution5-part2.png) result
 
 ### 6. How do you jump between words in the terminal?
 ### ans: The combination of 'ctrl' key with 'left' or 'right' key enables one to jump between words while simply using the 'right' or 'left' key alone allows one to move between letters.
