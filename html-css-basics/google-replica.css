@@ -1,0 +1,33 @@
+header .navbar {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.navbar-items {
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+.google-logo, .search-bar, .search-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+main section div {
+    margin-top: 150px;
+    font-size: 100px;
+}
+
+main section input {
+    margin: 40px auto;
+    border-radius: 30px;
+    height: 50px;
+    width: 600px;
+}
+
+main section.search-buttons div {
+    color: black;
+    background-color: grey;
+    
+}
