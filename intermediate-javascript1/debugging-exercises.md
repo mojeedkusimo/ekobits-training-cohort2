@@ -178,7 +178,7 @@ Fix the broken code and explain what was wrong:
     function displayEvenNumbers(){
         let numbers = [1,2,3,4,5,6,7,8];
         let evenNumbers = [];
-        for(let i=0; i<numbers.length-1; i++){
+        for(let i=0; i<numbers.length; i++){
             if(numbers[i] % 2 === 0) {
                 evenNumbers.push(numbers[i]);
             }
@@ -194,4 +194,5 @@ Fix the broken code and explain what was wrong:
 ### 3. The if statement stops execution immediately after setting the condition, because of the ";" after the ")" at the end of the condition description
 ### 4. The condition in the if statement is finding the remainder of the whole "numbers" array divided by 2 instead of each element of the "numbers" array.
 ### 5. In the if-block, it is the value of i, (iteration number) that is set to be pushed to the "numbers" array
-### 6. The for loop is stopping execution on the first iteration because of the return statement inside the loop 
+### 6. The for loop is stopping execution on the first iteration because of the return statement inside the loop.
+### 7. The for loop is only running up to 1 less the rquired number of iterations
