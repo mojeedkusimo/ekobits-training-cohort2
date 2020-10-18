@@ -160,7 +160,7 @@ Create a racing game with the two cars. When the race button is pressed, the two
     }
 }
 ```
-### Demo of part 1 and 2 can be found [here](https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part1-and-part2/)
+### Demo of part 1 and 2 can be found [here]( https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part1-and-part2/)
 
 ## Part 3
 For this assignment you will be combining your knowledge of DOM access and events to build a todo app!
@@ -322,7 +322,7 @@ As a user, you should be able to:
     </html> 
 }
 ```
-### Demo of 3 can be found [here](https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part3-and-part4/part3.html)
+### Demo of part 1 and 2 can be found [here]( https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part3-and-part3/part3.html)
 
 ## Part 4
 Using localStorage, try to store your todos so that if you refresh the page you do not lose what you have added to the list! As a super bonus, try to also save todos that you have marked as complete!
@@ -625,4 +625,4 @@ Using localStorage, try to store your todos so that if you refresh the page you 
     </html>
 }
 ```
-### Demo of 4 can be found [here](https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part3-and-part4/part4.html)
+### Demo of part 1 and 2 can be found [here]( https://mojeedkusimo.github.io/ekobits-mini-projects/event-exercise-part3-and-part3/part3.html)
