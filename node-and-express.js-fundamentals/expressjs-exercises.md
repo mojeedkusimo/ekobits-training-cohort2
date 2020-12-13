@@ -22,7 +22,7 @@ Our application should have the following routes:
     const express = require("express");
     const app = express();
     const bodyParser = require("body-parser");
-    const appRoutes = require("./expressjs-exercise-router");
+    const appRoutes = require("./router");
 
 
     app.use(bodyParser.json());
